@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hallo, ich bin Niels
 
-**typoniels/typoniels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webentwickler mit Schwerpunkt TYPO3 aus Halle an der Saale.
 
 Here are some ideas to get you started:
 
