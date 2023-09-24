@@ -1,4 +1,4 @@
-![TYPONiels - Webentwickler Halle](https://niels-langlotz.com/static/1132051184f2c62213751d4f018c1e82/01500/profile-03_uid_60181df462094.jpg)
+![TYPONiels - Webentwickler Gifhorn](https://niels-langlotz.com/static/4387aacba4235e65b2fbf31db57c64a5/0e7a8/fast-coding-ARSZF5G_uid_60a6420ae218f.jpg)
 
 # Howdy, ich bin Niels ...
 Webentwickler mit Schwerpunkt TYPO3 und PHP aus Gifhorn.
